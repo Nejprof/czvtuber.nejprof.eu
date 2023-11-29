@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 <center><img src="https://nejprof.github.io/czvtuber.nejprof.eu/assets/logo.png" alt="logo" width="256" height="auto"></center>
 
 | Profilová fotografie  | Jméno | Odkazy |
