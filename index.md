@@ -1,6 +1,4 @@
-
-
-
+<img src="/assets/logo.png" alt="logo" width="256" height="auto">
 
 | Profilová fotografie  | Jméno | Odkazy |
 | ------------- | ------------- | ------------- |
