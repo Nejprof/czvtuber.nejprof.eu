@@ -44,10 +44,11 @@ Další informace si přečti v zápatí stránky!~ 💖
  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/10345e1d-f05f-4be0-ba58-931e76502a0e-profile_image-70x70.png" alt="zumadax" width="128" height="auto">  | Zumadax | [Twitch](https://www.twitch.tv/zumadax/) |
 
  </details>
+<br />
+<br />
 
-<center>
 
- ## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
+## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
 
  Neměj obavy! Tento seznam je hostován celý na GitHub Pages, což je zároveň síť, na které bývají běžně
 ukládány open-source projekty. Pokud si přeješ tento list upravit, měl by ses naučit trochu pracovat s GitHubem,
