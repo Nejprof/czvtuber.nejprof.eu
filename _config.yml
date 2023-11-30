@@ -1,7 +1,6 @@
 author: ČSSNVT
 title: CZ/SK Seznam nalezených VTuberů
 description: Jediný druh influencerů, se kterými to nešlo do pekla...
-landing: Přehled
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
