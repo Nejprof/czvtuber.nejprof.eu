@@ -1,9 +1,3 @@
----
-title-heading: false
----
-
-<center><img src="https://czvtuber.nejprof.eu/assets/logo.png" alt="logo" width="720" height="auto"></center>
-
 # Vítejte na oficiálním CZ/SK Seznamu nalezených VTuberů
 
 Tento list byl původně založen správci dnes již zaniklého soukromého Discord serveru pro VTubery *VSlavic*.
