@@ -3,28 +3,5 @@
 <!-- You can set your favicon here -->
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
-  <script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
-    
-
-    <!-- Script to render emojis as Twemojis -->
-    <script>
-        window.onload = function() {    
-            // Parses the document body and    
-            // inserts <img> tags in place of Unicode Emojis    
-            twemoji.parse(document.body, 
-                    {folder: 'svg', ext: '.svg'} // This is to specify to Twemoji to use SVGs and not PNGs
-            );
-
-        }
-
-    </script>
-
-<style>
-img.emoji {
-   width: 1.5em;
-   padding-top: 18px;
-   pointer-events: none; 
-  }
-</style>
 	 <!-- CSS configurations to tweak how the Twemojis are displayed -->
 <!-- end custom head snippets -->
