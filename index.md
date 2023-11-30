@@ -1,5 +1,3 @@
-% Přehled
-
 # Vítejte na oficiálním CZ/SK Seznamu nalezených VTuberů
 
 Tento list byl původně založen správci dnes již zaniklého soukromého Discord serveru pro VTubery *VSlavic*.
