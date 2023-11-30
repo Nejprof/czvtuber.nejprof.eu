@@ -18,7 +18,6 @@ Další informace si přečti v zápatí stránky!~ 💖
 <details>
 
 <summary>Aktivní CZ/SK VTubeři</summary>
-<br />
 
 > ⚠️ **POZOR!** SEZNAM NENÍ A NIKDY NEBUDE KOMPLETNÍ!
 > Pokud si myslíš, že tu nějaký VTuber chybí, neváhej a staň se contributorem.
@@ -42,8 +41,6 @@ Další informace si přečti v zápatí stránky!~ 💖
  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/10345e1d-f05f-4be0-ba58-931e76502a0e-profile_image-70x70.png" alt="zumadax" width="128" height="auto">  | Zumadax | [Twitch](https://www.twitch.tv/zumadax/) |
 
  </details>
-<br />
-<br />
 
 
 ## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
