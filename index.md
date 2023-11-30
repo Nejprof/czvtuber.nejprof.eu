@@ -23,9 +23,7 @@ Další informace si přečti v zápatí stránky!~ 💖
 > ⚠️ **POZOR!** SEZNAM NENÍ A NIKDY NEBUDE KOMPLETNÍ!
 > Pokud si myslíš, že tu nějaký VTuber chybí, neváhej a staň se contributorem.
 
-<br />
-
- | Profilová fotografie  | Jméno | Odkazy |
+| Profilová fotografie  | Jméno | Odkazy |
 | ------------- | ------------- | ------------- |
 | <img src="https://vtubie.com/wp-content/uploads/2022/10/Smug.png" alt="kya_nini" width="128" height="auto">  | Kyara Nini | [Twitch](https://twitch.tv/kya_nini)<br /> [YouTube](https://www.youtube.com/channel/UCBmGBzOw33BnJ4QRDFVEieg) <br /> [Discord](https://discord.gg/KZ5YVEgZv3) <br /> [Instagram](https://www.instagram.com/kya_nini/) <br /> [Twitter / X](https://x.com/kya_nini) <br /> [TikTok](https://www.tiktok.com/@kyaranini) |
 | <img src="https://yt3.googleusercontent.com/GjRx74oGafeFSrxbm8x8BkXxWVQMIzpDisGu_-4E68KSZbroSVf2pyk1ntCl0DgSchPTs7SMcA=s176-c-k-c0x00ffffff-no-rj" alt="nejprof" width="128" height="auto">  | Nejprof 🇨🇿 <br /> Akugiko :gb: | [YouTube](https://youtube.com/Nejprof)<br /> [Twitch](https://twitch.tv/nejprof) <br /> [Discord](https://discord.gg/rcjGadpzVu) <br /> [Instagram](https://www.instagram.com/realnejprof/) <br /> [Twitter / X](https://x.com/Nejprof) <br /> [TikTok](https://www.tiktok.com/@nejprof) <br /> [Ko-fi](https://ko-fi.com/nejprof) |
