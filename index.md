@@ -15,7 +15,7 @@ Nooo... A takhle se tu tento seznam vynořil.
 
 Další informace si přečti v zápatí stránky!~ 💖
 
-### 🟢 Aktivní CZ/SK VTubeři
+## 🟢 Aktivní CZ/SK VTubeři
 
 > ⚠️ **POZOR!** SEZNAM NENÍ A NIKDY NEBUDE KOMPLETNÍ!
 > Pokud si myslíš, že tu nějaký VTuber chybí, neváhej a staň se contributorem.
@@ -38,6 +38,22 @@ Další informace si přečti v zápatí stránky!~ 💖
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/87771452-2c83-4034-8f73-819d48e32e79-profile_image-70x70.png" alt="game-mix" width="128" height="auto">  | GameMix | [Twitch](https://www.twitch.tv/GameMix8) <br /> [YouTube](https://www.youtube.com/channel/UCBz2hb4Te6Snb__bEoYf7fg) <br /> [Instagram](https://instagram.com/realgamemix8) <br /> [TikTok](https://www.tiktok.com/@game_mix8) <br /> [Discord](https://discord.gg/Uvqn5nYTxH) |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/6218f49f-8812-4fd5-b4f3-3c63bcd82dc2-profile_image-70x70.png" alt="kamito_nanami" width="128" height="auto">  | Kamito Nanami | [Twitch](https://www.twitch.tv/nanamikamito/) <br /> [YouTube](https://www.youtube.com/channel/UC9pm_fqLpRmJnrXQGh7A2Kg) <br /> [Instagram](https://www.instagram.com/kamito_nanam1_/) <br /> [Twitter / X](https://x.com/NanamiKamito) <br /> [Discord](https://discord.gg/CMwvyQfq8y) <br /> [TikTok](https://www.tiktok.com/@kamitonanami) |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/10345e1d-f05f-4be0-ba58-931e76502a0e-profile_image-70x70.png" alt="zumadax" width="128" height="auto">  | Zumadax | [Twitch](https://www.twitch.tv/zumadax/) |
+
+## VTuberské skupiny
+
+
+I u nás v Česku a na Slovensku existují skupiny se svými vlastními VTubery.
+V tomto případě pojem "korporátní VTuber" znamená podřazenost k nějaké skupině.
+
+<strong>Wi:Okashi!</strong> <img src="https://panels.twitch.tv/panel-735914929-image-dda7ea5a-c8ae-4d76-84dd-cc5e80ef0fb7" alt="wiokashi" width="32" height="auto">
+
+| Profilová fotografie  | Jméno | Odkazy | Datum debutu | Datum graduace |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b9ff6d51-4c43-4486-8b16-55dc5fc7edb5-profile_image-70x70.png" alt="kairou" width="128" height="auto">  | Kairou Mizuma ✞ <br /> [kajró mizuma] | [Twitch](https://www.twitch.tv/kairoumizuma)<br /> [YouTube](https://www.youtube.com/channel/UCwEpNrf7WhMLj91sjyIXsbQ) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://www.instagram.com/kairoumizuma/) <br /> [Twitter / X](https://x.com/kairoumizuma) <br /> [TikTok](https://tiktok.com/@kairoumizuma) | **Neoficialně:** X. 5. 2020 <br /> **Oficiálně:** 1. 1. 2022 <br /> **2D Re-debut:** 1.8.2022 |  28.10.2023 |
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/49c5f101-38b2-4cc0-ba65-2d947970cd41-profile_image-70x70.png" alt="mayian" width="128" height="auto">  | Mayian Kobushi <br /> [maján kobuši] | [Twitch](https://www.twitch.tv/Mayian_Kobushi)<br /> [YouTube](https://www.youtube.com/channel/UC425Xm2hx3P96iXax4tqPYg) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://www.instagram.com/mayiankobushi) <br /> [Twitter / X](https://x.com/MayianKobushi) <br /> [TikTok](https://www.tiktok.com/@mayiankobushi) | **Oficiálně:** 2. 1. 2022 <br /> **2D Re-debut:** 2.1.2023 |  Stále působí |
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/c7854769-d370-4896-96bd-c75ccc182ec3-profile_image-70x70.png" alt="toushio" width="128" height="auto">  | Tōshio Shirakura <br /> [tóšijo širakura] | [Twitch](https://www.twitch.tv/ToshioShirakura)<br /> [YouTube](https://www.youtube.com/channel/UCLzOcylPbjfuPMlZReexCyQ) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://www.instagram.com/toshio_shirakura/) <br /> [Twitter / X](https://x.com/MayianKobushi) <br /> | **Oficiálně:** 2. 5. 2022 |  Neaktivní |
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/7cbbcfa3-0c13-4a3f-af82-7790f63f81d5-profile_image-70x70.png" alt="ryouta" width="128" height="auto">  | Ryōta Sufaru <br /> [rijóta súfaru] | [Twitch](https://www.twitch.tv/RyotaSufaru)<br /> [YouTube](https://www.youtube.com/channel/UC24wD7-BJTz3fuAKuCDPAkA) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://instagram.com/ryotasufaru) <br /> | **Oficiálně:** 13. 1. 2023 |  Neaktivní |
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/14cd5ebc-8445-44b7-87dc-7584c5f74db4-profile_image-70x70.png" alt="arashi" width="128" height="auto">  | Arashi Hikaru <br /> [araši hikaru] | [Twitch](https://www.twitch.tv/arashi_hikaru)<br /> [YouTube](https://www.youtube.com/channel/UCItN2l20SGeb1Uax-CKsKVw) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://www.instagram.com/arashihikarucz/) <br /> [Twitter / X](https://twitter.com/ArashiHikaruUwU) | **Oficiálně:** 14. 1. 2023 |  Stále působí |
 
 
 ## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
