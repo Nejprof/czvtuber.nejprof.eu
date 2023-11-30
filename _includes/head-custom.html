@@ -1,0 +1,36 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
+ <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  <script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+    
+
+    <!-- Script to render emojis as Twemojis -->
+    <script>
+        window.onload = function() {    
+            // Parses the document body and    
+            // inserts <img> tags in place of Unicode Emojis    
+            twemoji.parse(document.body, 
+                    {folder: 'svg', ext: '.svg'} // This is to specify to Twemoji to use SVGs and not PNGs
+            );
+
+        }
+
+    </script>
+	 <!-- CSS configurations to tweak how the Twemojis are displayed -->
+    <style>
+        img.emoji {
+            /* Since we are using SVGs, you have to change the width using CSS */
+            width:1.5em;
+
+            /* 
+            This is to make the emojis feel like actual emojis to 
+            the user and they won't act like images. This makes the emojis
+            non-reactive to any mouse events such as dragging, 
+            hovering, clicking etc. Makes it feel like its actual text.
+            */
+            pointer-events: none; 
+        }
+    </style>
+<!-- end custom head snippets -->
