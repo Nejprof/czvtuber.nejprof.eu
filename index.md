@@ -57,6 +57,4 @@ založíš Pull Request a už jen čekáš, zda ti to **Nejprof** nebo jiní spr
 
 [Zdrojový kód stránky](https://github.com/Nejprof/czvtuber.nejprof.eu)
 
-</center>
-
 
