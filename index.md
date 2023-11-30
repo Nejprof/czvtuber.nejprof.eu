@@ -35,7 +35,7 @@ Další informace si přečti v zápatí stránky!~ 💖
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/6218f49f-8812-4fd5-b4f3-3c63bcd82dc2-profile_image-70x70.png" alt="kamito_nanami" width="128" height="auto">  | Kamito Nanami | [Twitch](https://www.twitch.tv/nanamikamito/) <br /> [YouTube](https://www.youtube.com/channel/UC9pm_fqLpRmJnrXQGh7A2Kg) <br /> [Instagram](https://www.instagram.com/kamito_nanam1_/) <br /> [Twitter / X](https://x.com/NanamiKamito) <br /> [Discord](https://discord.gg/CMwvyQfq8y) <br /> [TikTok](https://www.tiktok.com/@kamitonanami) |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/10345e1d-f05f-4be0-ba58-931e76502a0e-profile_image-70x70.png" alt="zumadax" width="128" height="auto">  | Zumadax | [Twitch](https://www.twitch.tv/zumadax/) |
 
-## VTuberské skupiny
+## 🎤 VTuberské skupiny
 
 
 I u nás v Česku a na Slovensku existují skupiny se svými vlastními VTubery.
@@ -51,6 +51,7 @@ V tomto případě pojem "korporátní VTuber" znamená podřazenost k nějaké 
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/7cbbcfa3-0c13-4a3f-af82-7790f63f81d5-profile_image-70x70.png" alt="ryouta" width="128" height="auto">  | Ryōta Sufaru <br /> [rijóta súfaru] | [Twitch](https://www.twitch.tv/RyotaSufaru)<br /> [YouTube](https://www.youtube.com/channel/UC24wD7-BJTz3fuAKuCDPAkA) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://instagram.com/ryotasufaru) <br /> | **Oficiálně:** 13. 1. 2023 |  Neaktivní |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/14cd5ebc-8445-44b7-87dc-7584c5f74db4-profile_image-70x70.png" alt="arashi" width="128" height="auto">  | Arashi Hikaru <br /> [araši hikaru] | [Twitch](https://www.twitch.tv/arashi_hikaru)<br /> [YouTube](https://www.youtube.com/channel/UCItN2l20SGeb1Uax-CKsKVw) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://www.instagram.com/arashihikarucz/) <br /> [Twitter / X](https://twitter.com/ArashiHikaruUwU) | **Oficiálně:** 14. 1. 2023 |  Stále působí |
 
+<img src="https://akizu.cz/wp-content/uploads/2023/09/webwhi.png" alt="akizu" width="64" height="auto">
 
 ## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
 
