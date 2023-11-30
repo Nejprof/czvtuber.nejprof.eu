@@ -14,7 +14,7 @@ Další informace si přečti v zápatí stránky!~ 💖
 > <i class="fa-solid fa-triangle-exclamation"></i> **POZOR!** SEZNAM NENÍ A NIKDY NEBUDE KOMPLETNÍ!
 > Pokud si myslíš, že tu nějaký VTuber chybí, neváhej a staň se contributorem.
 
-| <i class="fa-solid fa-image-portrait"></i> Profilová fotografie  | <i class="fa-solid fa-signature"></i> Jméno | <i class="fa-solid fa-arrow-up-right-from-square"></i>Odkazy |
+| <i class="fa-solid fa-image-portrait"></i> Profilová fotografie  | <i class="fa-solid fa-signature"></i> Jméno | <i class="fa-solid fa-arrow-up-right-from-square"></i> Odkazy |
 | ------------- | ------------- | ------------- |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/8f90a303-e413-4a56-80af-33c8fd991f79-profile_image-70x70.png" alt="orchalon" width="128" height="auto">  | Orchalon | [Twitch](https://www.twitch.tv/OrchalonSK)<br /> [YouTube](https://www.youtube.com/c/orchalon) <br /> [Discord](https://discord.gg/pdPuUjRWH7) <br /> [Instagram](https://www.instagram.com/orchalonsk/) <br /> [Twitter / X](https://twitter.com/Orchalonsk) <br /> [TikTok](https://tiktok.com/@orchalonsk) |
 | <img src="https://vtubie.com/wp-content/uploads/2022/10/Smug.png" alt="kya_nini" width="128" height="auto">  | Kyara Nini | [Twitch](https://twitch.tv/kya_nini)<br /> [YouTube](https://www.youtube.com/channel/UCBmGBzOw33BnJ4QRDFVEieg) <br /> [Discord](https://discord.gg/KZ5YVEgZv3) <br /> [Instagram](https://www.instagram.com/kya_nini/) <br /> [Twitter / X](https://x.com/kya_nini) <br /> [TikTok](https://www.tiktok.com/@kyaranini) |
@@ -41,7 +41,7 @@ V tomto případě pojem "korporátní VTuber" znamená podřazenost k nějaké 
 
 <strong>Wi:Okashi!</strong> <img src="https://panels.twitch.tv/panel-735914929-image-dda7ea5a-c8ae-4d76-84dd-cc5e80ef0fb7" alt="wiokashi" width="32" height="auto">
 
-| <i class="fa-solid fa-image-portrait"></i> Profilová fotografie  | <i class="fa-solid fa-signature"></i> Jméno | <i class="fa-solid fa-arrow-up-right-from-square"></i>Odkazy | <i class="fa-solid fa-star-of-life"></i> Datum debutu | <i class="fa-solid fa-cross"></i> Datum graduace |
+| <i class="fa-solid fa-image-portrait"></i> Profilová fotografie  | <i class="fa-solid fa-signature"></i> Jméno | <i class="fa-solid fa-arrow-up-right-from-square"></i> Odkazy | <i class="fa-solid fa-star-of-life"></i> Datum debutu | <i class="fa-solid fa-cross"></i> Datum graduace |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/b9ff6d51-4c43-4486-8b16-55dc5fc7edb5-profile_image-70x70.png" alt="kairou" width="128" height="auto">  | Kairou Mizuma ✞ <br /> [kajró mizuma] | [Twitch](https://www.twitch.tv/kairoumizuma)<br /> [YouTube](https://www.youtube.com/channel/UCwEpNrf7WhMLj91sjyIXsbQ) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://www.instagram.com/kairoumizuma/) <br /> [Twitter / X](https://x.com/kairoumizuma) <br /> [TikTok](https://tiktok.com/@kairoumizuma) | **Neoficialně:** X. 5. 2020 <br /> **Oficiálně:** 1. 1. 2022 <br /> **2D Re-debut:** 1.8.2022 |  28.10.2023 |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/49c5f101-38b2-4cc0-ba65-2d947970cd41-profile_image-70x70.png" alt="mayian" width="128" height="auto">  | Mayian Kobushi <br /> [maján kobuši] | [Twitch](https://www.twitch.tv/Mayian_Kobushi)<br /> [YouTube](https://www.youtube.com/channel/UC425Xm2hx3P96iXax4tqPYg) <br /> [Discord](https://discord.gg/MstV3A7egr) <br /> [Instagram](https://www.instagram.com/mayiankobushi) <br /> [Twitter / X](https://x.com/MayianKobushi) <br /> [TikTok](https://www.tiktok.com/@mayiankobushi) | **Oficiálně:** 2. 1. 2022 <br /> **2D Re-debut:** 2.1.2023 |  Stále působí |
@@ -51,10 +51,10 @@ V tomto případě pojem "korporátní VTuber" znamená podřazenost k nějaké 
 
 <img src="https://akizu.cz/wp-content/uploads/2023/09/webwhi.png" alt="akizu" width="64" height="auto">
 
-| <i class="fa-solid fa-image-portrait"></i> Profilová fotografie  | <i class="fa-solid fa-signature"></i> Jméno | <i class="fa-solid fa-arrow-up-right-from-square"></i>Odkazy | <i class="fa-solid fa-star-of-life"></i> Datum debutu | <i class="fa-solid fa-cross"></i> Datum graduace |
+| <i class="fa-solid fa-image-portrait"></i> Profilová fotografie  | <i class="fa-solid fa-signature"></i> Jméno | <i class="fa-solid fa-arrow-up-right-from-square"></i> Odkazy | <i class="fa-solid fa-star-of-life"></i> Datum debutu | <i class="fa-solid fa-cross"></i> Datum graduace |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/0ba0c1bb-a2ed-46d4-90a0-b5c1ef3913f2-profile_image-70x70.png" alt="azu-oneesan" width="128" height="auto"> | Azu Oneesan | [Twitch](https://www.twitch.tv/azuakizu) <br /> [YouTube](https://www.youtube.com/@AzuOneesan) <br /> [Instagram](https://www.instagram.com/azuoneesan/) <br /> [Facebook](https://www.facebook.com/profile.php?id=100077192709631) | **TREXIT:** 1. 7. 2023 | Stále působí |
-| <img src="https://yt3.googleusercontent.com/HR7stexV5TdcB0FIKY4imS6DJfLvVnBhI23o5lMKIYqB4fGpy5B9DyfP1QOWA4mkZbN6MnQ-=s176-c-k-c0x00ffffff-no-rj" alt="azu-oneesan" width="128" height="auto"> | Fuyuko Suzuya | [Twitch](https://www.twitch.tv/azuakizu) <br /> [YouTube](https://www.youtube.com/@FuyukoSuzuya) <br /> [Instagram](https://www.instagram.com/fuyuko.suzuya/) <br /> [Twitter / X](https://x.com/Fuyuko_Suzuya) | **TREXIT:** 1. 7. 2023 | Neaktivní |
+| <img src="https://yt3.googleusercontent.com/HR7stexV5TdcB0FIKY4imS6DJfLvVnBhI23o5lMKIYqB4fGpy5B9DyfP1QOWA4mkZbN6MnQ-=s176-c-k-c0x00ffffff-no-rj" alt="fuyuko" width="128" height="auto"> | Fuyuko Suzuya | [Twitch](https://www.twitch.tv/azuakizu) <br /> [YouTube](https://www.youtube.com/@FuyukoSuzuya) <br /> [Instagram](https://www.instagram.com/fuyuko.suzuya/) <br /> [Twitter / X](https://x.com/Fuyuko_Suzuya) | **TREXIT:** 1. 7. 2023 | Neaktivní |
 
 ## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
 
@@ -63,6 +63,6 @@ ukládány open-source projekty. Pokud si přeješ tento list upravit, měl by s
 specificky s "forkováním" repozitářů. Ve svém forku následně provedeš nějaké změny a potom na repozitáři tohoto seznamu
 založíš Pull Request a už jen čekáš, zda ti to **Nejprof** nebo jiní správci schválí. 😉
 
-[Zdrojový kód stránky](https://github.com/Nejprof/czvtuber.nejprof.eu)
+[<i class="fa-brands fa-github-alt"></i> Zdrojový kód stránky](https://github.com/Nejprof/czvtuber.nejprof.eu)
 
 
