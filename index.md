@@ -51,6 +51,11 @@ V tomto případě pojem "korporátní VTuber" znamená podřazenost k nějaké 
 
 <img src="https://akizu.cz/wp-content/uploads/2023/09/webwhi.png" alt="akizu" width="64" height="auto">
 
+| Profilová fotografie  | Jméno | Odkazy | Datum debutu | Datum graduace |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/0ba0c1bb-a2ed-46d4-90a0-b5c1ef3913f2-profile_image-70x70.png" alt="azu-oneesan" width="128" height="auto"> | Azu Oneesan | [Twitch](https://www.twitch.tv/azuakizu) <br /> [YouTube](https://www.youtube.com/@AzuOneesan) <br /> [Instagram](https://www.instagram.com/azuoneesan/) <br /> [Facebook](https://www.facebook.com/profile.php?id=100077192709631) | **TREXIT:** 1. 7. 2023 | Stále působí |
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/0ba0c1bb-a2ed-46d4-90a0-b5c1ef3913f2-profile_image-70x70.png" alt="azu-oneesan" width="128" height="auto"> | Fuyuko Suzuya | [Twitch](https://www.twitch.tv/azuakizu) <br /> [YouTube](https://www.youtube.com/@FuyukoSuzuya) <br /> [Instagram](https://www.instagram.com/fuyuko.suzuya/) <br /> [Twitter / X](https://x.com/Fuyuko_Suzuya) | **TREXIT:** 1. 7. 2023 | Neaktivní |
+
 ## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
 
  Neměj obavy! Tento seznam je hostován celý na GitHub Pages, což je zároveň síť, na které bývají běžně
