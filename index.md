@@ -4,10 +4,31 @@ title-heading: false
 
 <center><img src="https://nejprof.github.io/czvtuber.nejprof.eu/assets/logo.png" alt="logo" width="720" height="auto"></center>
 
-| Profilová fotografie  | Jméno | Odkazy |
+# Vítejte na oficiálním CZ/SK Seznamu nalezených VTuberů
+
+Tento list byl původně založen správci dnes již zaniklého soukromého Discord serveru pro VTubery *VSlavic*.
+Průběžně byl tento seznam aktualizován ať už Orchalon, Nini nebo Kairou Mizuma.
+
+Vzhledem k tomu, že na této scéně chybí nějaká centralizace v tom Nejprofa napadla věc, že by mohl tento list převzít,
+publikovat ho veřejně a umožnit komukoli přidávat do seznamu jakékoli VTubery.
+Nooo... A takhle se tu tento seznam vynořil.
+
+Další informace si přečti v zápatí stránky!~ 💖
+
+<details>
+
+<summary>Aktivní CZ/SK VTubeři</summary>
+<br />
+
+> ⚠️ **POZOR!** SEZNAM NENÍ A NIKDY NEBUDE KOMPLETNÍ!
+> Pokud si myslíš, že tu nějaký VTuber chybí, neváhej a staň se contributorem.
+
+<br />
+
+ | Profilová fotografie  | Jméno | Odkazy |
 | ------------- | ------------- | ------------- |
 | <img src="https://vtubie.com/wp-content/uploads/2022/10/Smug.png" alt="kya_nini" width="128" height="auto">  | Kyara Nini | [Twitch](https://twitch.tv/kya_nini)<br /> [YouTube](https://www.youtube.com/channel/UCBmGBzOw33BnJ4QRDFVEieg) <br /> [Discord](https://discord.gg/KZ5YVEgZv3) <br /> [Instagram](https://www.instagram.com/kya_nini/) <br /> [Twitter / X](https://x.com/kya_nini) <br /> [TikTok](https://www.tiktok.com/@kyaranini) |
-| <img src="https://yt3.googleusercontent.com/GjRx74oGafeFSrxbm8x8BkXxWVQMIzpDisGu_-4E68KSZbroSVf2pyk1ntCl0DgSchPTs7SMcA=s176-c-k-c0x00ffffff-no-rj" alt="nejprof" width="128" height="auto">  | Nejprof :cz: <br /> Akugiko :gb: | [YouTube](https://youtube.com/Nejprof)<br /> [Twitch](https://twitch.tv/nejprof) <br /> [Discord](https://discord.gg/tjVeW73R) <br /> [Instagram](https://www.instagram.com/realnejprof/) <br /> [Twitter / X](https://x.com/Nejprof) <br /> [TikTok](https://www.tiktok.com/@nejprof) <br /> [Ko-fi](https://ko-fi.com/nejprof) |
+| <img src="https://yt3.googleusercontent.com/GjRx74oGafeFSrxbm8x8BkXxWVQMIzpDisGu_-4E68KSZbroSVf2pyk1ntCl0DgSchPTs7SMcA=s176-c-k-c0x00ffffff-no-rj" alt="nejprof" width="128" height="auto">  | Nejprof 🇨🇿 <br /> Akugiko :gb: | [YouTube](https://youtube.com/Nejprof)<br /> [Twitch](https://twitch.tv/nejprof) <br /> [Discord](https://discord.gg/tjVeW73R) <br /> [Instagram](https://www.instagram.com/realnejprof/) <br /> [Twitter / X](https://x.com/Nejprof) <br /> [TikTok](https://www.tiktok.com/@nejprof) <br /> [Ko-fi](https://ko-fi.com/nejprof) |
 | <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/30fa057a-1399-4606-8302-ca6edf9a46e8-profile_image-70x70.png" alt="bb_blui" width="128" height="auto">  | Blui | [Twitch](https://twitch.tv/bb_blui) <br /> [Discord](https://discord.gg/trNHWA2s9d) <br /> [Instagram](https://www.instagram.com/bb_blui/) <br /> [Twitter / X](https://x.com/bb_blui) <br /> [TikTok](https://tiktok.com/@bb_blui) <br /> [Patreon **18+**](https://patreon.com/bb_blui) |
  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/4d20416a-1053-468f-a391-91f764267960-profile_image-70x70.png" alt="bb_blui" width="128" height="auto">  | Spoiled Mouse | [Twitch](https://twitch.tv/SpoiledMouse) <br /> [YouTube](https://www.youtube.com/channel/UCnLu7HN2oTWrxVesOigxeJQ) <br /> [Discord](https://discord.gg/s2wvFctBxq) <br /> [Instagram](https://www.instagram.com/spoiledmousecz/) <br /> [Twitter / X](https://x.com/MouseSpoiled) <br /> [TikTok](https://tiktok.com/@bb_blui) <br /> [Facebook](https://facebook.com/SpoiledMouse) |
  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/108b0008-96a4-4c51-b089-1f02857bce14-profile_image-70x70.png" alt="red_kuraishi" width="128" height="auto">  | Red Kuraishi | [Twitch](https://twitch.tv/RedKuraishi) <br /> [YouTube](https://www.youtube.com/RedKuraishi) <br /> [Discord](https://discord.gg/B4Hh8a5FeH) |
@@ -21,3 +42,20 @@ title-heading: false
  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/87771452-2c83-4034-8f73-819d48e32e79-profile_image-70x70.png" alt="game-mix" width="128" height="auto">  | GameMix | [Twitch](https://www.twitch.tv/GameMix8) <br /> [YouTube](https://www.youtube.com/channel/UCBz2hb4Te6Snb__bEoYf7fg) <br /> [Instagram](https://instagram.com/realgamemix8) <br /> [TikTok](https://www.tiktok.com/@game_mix8) <br /> [Discord](https://discord.gg/Uvqn5nYTxH) |
  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/6218f49f-8812-4fd5-b4f3-3c63bcd82dc2-profile_image-70x70.png" alt="kamito_nanami" width="128" height="auto">  | Kamito Nanami | [Twitch](https://www.twitch.tv/nanamikamito/) <br /> [YouTube](https://www.youtube.com/channel/UC9pm_fqLpRmJnrXQGh7A2Kg) <br /> [Instagram](https://www.instagram.com/kamito_nanam1_/) <br /> [Twitter / X](https://x.com/NanamiKamito) <br /> [Discord](https://discord.gg/CMwvyQfq8y) <br /> [TikTok](https://www.tiktok.com/@kamitonanami) |
  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/10345e1d-f05f-4be0-ba58-931e76502a0e-profile_image-70x70.png" alt="zumadax" width="128" height="auto">  | Zumadax | [Twitch](https://www.twitch.tv/zumadax/) |
+
+ </details>
+
+<center>
+
+ ## Chci přidat nového VTubera do toho seznamu nebo chci něco upravit!
+
+ Neměj obavy! Tento seznam je hostován celý na GitHub Pages, což je zároveň síť, na které bývají běžně
+ukládány open-source projekty. Pokud si přeješ tento list upravit, měl by ses naučit trochu pracovat s GitHubem,
+specificky s "forkováním" repozitářů. Ve svém forku následně provedeš nějaké změny a potom na repozitáři tohoto seznamu
+založíš Pull Request a už jen čekáš, zda ti to **Nejprof** nebo jiní správci schválí. 😉
+
+[Zdrojový kód stránky](https://github.com/Nejprof/czvtuber.nejprof.eu)
+
+</center>
+
+
