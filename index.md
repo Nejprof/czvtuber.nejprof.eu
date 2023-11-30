@@ -2,7 +2,7 @@
 title-heading: false
 ---
 
-<center><img src="https://nejprof.github.io/czvtuber.nejprof.eu/assets/logo.png" alt="logo" width="720" height="auto"></center>
+<center><img src="https://czvtuber.nejprof.eu/assets/logo.png" alt="logo" width="720" height="auto"></center>
 
 # Vítejte na oficiálním CZ/SK Seznamu nalezených VTuberů
 
@@ -15,9 +15,7 @@ Nooo... A takhle se tu tento seznam vynořil.
 
 Další informace si přečti v zápatí stránky!~ 💖
 
-<details>
-
-<summary>Aktivní CZ/SK VTubeři</summary>
+### 🟢 Aktivní CZ/SK VTubeři
 
 > ⚠️ **POZOR!** SEZNAM NENÍ A NIKDY NEBUDE KOMPLETNÍ!
 > Pokud si myslíš, že tu nějaký VTuber chybí, neváhej a staň se contributorem.
