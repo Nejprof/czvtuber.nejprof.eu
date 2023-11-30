@@ -1,4 +1,4 @@
-# Vítejte na oficiálním CZ/SK Seznamu nalezených VTuberů
+# 👋 Vítejte na oficiálním CZ/SK Seznamu nalezených VTuberů!
 
 Tento list byl původně založen správci dnes již zaniklého soukromého Discord serveru pro VTubery *VSlavic*.
 Průběžně byl tento seznam aktualizován ať už Orchalon, Nini nebo Kairou Mizuma.
