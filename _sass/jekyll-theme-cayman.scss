@@ -225,7 +225,13 @@ a {
 
   h1,
   h2,
-  h3,
+  h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700
+    color: $section-headings-color;
+  }
+  
   h4,
   h5,
   h6 {
