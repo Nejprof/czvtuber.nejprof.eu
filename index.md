@@ -47,7 +47,7 @@ Další informace si přečti v zápatí stránky!~ 💖
 I u nás v Česku a na Slovensku existují skupiny se svými vlastními VTubery.
 V tomto případě pojem "korporátní VTuber" znamená podřazenost k nějaké skupině.
 
-<strong>Wi:Okashi!</strong> <img src="https://panels.twitch.tv/panel-735914929-image-dda7ea5a-c8ae-4d76-84dd-cc5e80ef0fb7" alt="wiokashi" width="32" height="auto">
+<img src="https://panels.twitch.tv/panel-735914929-image-dda7ea5a-c8ae-4d76-84dd-cc5e80ef0fb7" alt="wiokashi" width="32" height="auto" class="ikona"> <strong>Wi:Okashi!</strong>
 
 | <i class="fa-solid fa-image-portrait"></i> Profilová fotografie  | <i class="fa-solid fa-signature"></i> Jméno | <i class="fa-solid fa-arrow-up-right-from-square"></i> Odkazy | <i class="fa-solid fa-star-of-life"></i> Datum debutu | <i class="fa-solid fa-cross"></i> Datum graduace |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
