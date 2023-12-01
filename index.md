@@ -79,6 +79,6 @@ ukládány open-source projekty. Pokud si přeješ tento list upravit, měl by s
 specificky s "forkováním" repozitářů. Ve svém forku následně provedeš nějaké změny a potom na repozitáři tohoto seznamu
 založíš Pull Request a už jen čekáš, zda ti to **Nejprof** nebo jiní správci schválí. 😉
 
-[<i class="fa-brands fa-github-alt"></i> Zdrojový kód stránky](https://github.com/Nejprof/czvtuber.nejprof.eu)
+<a href="https://github.com/Nejprof/czvtuber.nejprof.eu" class="btn-kafe"><i class="fa-brands fa-github-alt"></i> Zdrojový kód stránky</a>
 
 
